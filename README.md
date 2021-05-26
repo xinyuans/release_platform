@@ -24,7 +24,7 @@
 ## 下载地址
 原地址：
 - [https://github.com/lisijie/gopub/releases](https://github.com/lisijie/gopub/releases)
-先地址：
+现地址：
 - [https://github.com/xinyuans/release_platform](https://github.com/xinyuans/release_platform)
 ## 安装
 
