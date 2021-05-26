@@ -22,10 +22,10 @@
 3. 在跳板机进行解压，将代码同步到目标服务器。
 
 ## 下载地址
-原地址：
-- [https://github.com/lisijie/gopub/releases](https://github.com/lisijie/gopub/releases)
-现地址：
-- [https://github.com/xinyuans/release_platform](https://github.com/xinyuans/release_platform)
+
+- 原地址：[https://github.com/lisijie/gopub/releases](https://github.com/lisijie/gopub/releases)
+
+- 现地址：[https://github.com/xinyuans/release_platform](https://github.com/xinyuans/release_platform)
 ## 安装
 
 仅支持linux/mac系统，并且要求安装了mysql和git。
